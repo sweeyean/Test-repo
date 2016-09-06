@@ -1,0 +1,68 @@
+Your session: Aug 22 - Oct 17
+Syllabus
+
+Week 1 : Overview, Understanding the Problem, and Getting the Data
+-------------------------------------------------------------------
+	Welcome to the Capstone Project								1 min
+	Project Overview											10 min
+	Welcome from SwiftKey										1 min
+	You Are a Data Scientist Now								1 min
+	Syllabus													10 min
+	Task 0: Understanding the Problem
+		Introduction to Task 0: Understanding the Problem		1 min
+		Task 0 - Understanding the problem						10 min
+	Task 1: Getting and Cleaning the Data
+		Introduction to Task 1: Getting and Cleaning the Data	1 min
+		Task 1 - Getting and cleaning the data					10 min
+		Regular Expressions: Part 1 (Optional)					5 min
+		Regular Expressions: Part 2 (Optional)					8 min
+	Quiz: Quiz 1: Getting Started								6 questions
+
+
+
+
+Week 2 : Exploratory Data Analysis and Modeling  	Due: 05Sep
+---------------------------------------------------------------------------
+	Task 2: Exploratory Data Analysis
+			Introduction to Task 2: Exploratory Data Analysis	1 min
+			Task 2 - Exploratory Data Analysis					10 min
+	Task 3: Modeling
+			Introduction to Task 3: Modeling					1 min
+			Task 3 - Modeling									10 min
+	Milestone Report
+	Peer Graded Assignment: Milestone Report					2h
+	Review Your Peers: Milestone Report
+
+
+Week 3 : Prediction Model		Due: 12Sep
+----------------------------------------------------
+	Task 4: Prediction Model
+		Introduction to Task 4: Prediction Model		1 min
+		Task 4 - Prediction Model						10 min
+	Quiz: Quiz 2: Natural language processing I			10 questions
+
+Week 4 : Creative Exploration		Due: 19Sep
+-------------------------------------------------------
+	Task 5: Creative Exploration
+		Introduction to Task 5: Creative Exploration	59 sec
+		Task 5 - Creative Exploration					10 min
+	Quiz: Quiz 3: Natural language processing II		10 questions
+
+Week 5 : Data Product		Due: 26Sep
+------------------------------------------------
+	Task 6: Data Product
+		Introduction to Task 6: Data Product	1 min
+		Task 6 - Data Product					10 min
+
+Week 6 : Slide Deck	Due: 03Oct
+---------------------------------------------
+	Task 7: Slide Deck
+		Introduction to Task 7: Slide Deck		50 sec
+		Task 7 - Slide Deck						10 min
+
+Week 7 : Final Project Submission and Evaluation	Due: 10Oct
+--------------------------------------------------------------------------
+	Final Project Submission
+		Peer Graded Assignment: Final Project Submission	2h
+		Review Your Peers: Final Project Submission
+		Congratulations!									2 min
